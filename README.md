@@ -1,6 +1,6 @@
 # URL_Shortner
 The Project is solely based on react.js, this website can help you convert you big urls into short easily copyable urls.
-you can access it [here]([https://url-shortner-new.vercel.app/](https://url-shortner-sepia-xi.vercel.app/)
+you can access it here: https://url-shortner-new.vercel.app/](https://url-shortner-sepia-xi.vercel.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
