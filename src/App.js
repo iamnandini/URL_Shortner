@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import './App.css';
 import BackgroundAnimate from './BackgroundAnimate';
+import { Analytics } from '@vercel/analytics/react';
+
 // 
 import LinkResult from './LinkResult';
 import InputShortener from './InputShortener';
@@ -12,6 +14,8 @@ function App() {
       <InputShortener inputValue={setInputValue}/>
       <BackgroundAnimate />
       <LinkResult inputValue={inputValue} />
+      <Analytics />
+
     </div>
   );
 }
